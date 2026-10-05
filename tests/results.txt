@@ -1,0 +1,11 @@
+********* Start testing of qmltestrunner *********
+Config: Using QtTest library 6.9.0, Qt 6.9.0 (x86_64-little_endian-llp64 shared (dynamic) release build; by GCC 13.1.0), windows 11
+PASS   : qmltestrunner::WidgetStyles::initTestCase()
+PASS   : qmltestrunner::WidgetStyles::test_cards()
+PASS   : qmltestrunner::WidgetStyles::test_pet()
+PASS   : qmltestrunner::WidgetStyles::test_settings()
+PASS   : qmltestrunner::WidgetStyles::test_updates()
+PASS   : qmltestrunner::WidgetStyles::test_visual()
+PASS   : qmltestrunner::WidgetStyles::cleanupTestCase()
+Totals: 7 passed, 0 failed, 0 skipped, 0 blacklisted, 1402ms
+********* Finished testing of qmltestrunner *********

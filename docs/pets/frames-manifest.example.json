@@ -1,0 +1,12 @@
+{
+  "schema": "codexmeter-16-pose-extension",
+  "name": "Mio Pet",
+  "rows": [
+    { "state": "idle", "frames": ["frames/idle/00.png"], "durations": [125] },
+    { "state": "running", "frames": ["frames/running/00.png"], "durations": [125] },
+    { "state": "review", "frames": ["frames/review/00.png"], "durations": [125] },
+    { "state": "waiting", "frames": ["frames/waiting/00.png"], "durations": [125] },
+    { "state": "jumping", "frames": ["frames/jumping/00.png"], "durations": [125] },
+    { "state": "failed", "frames": ["frames/failed/00.png"], "durations": [125] }
+  ]
+}

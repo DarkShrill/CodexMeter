@@ -1,0 +1,103 @@
+# =========================
+# Qt / C++
+# =========================
+
+# Qt build directories
+build/
+build-*/
+*-build-*/
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.creator.user
+*.creator.user.*
+
+# qmake
+Makefile
+Makefile.*
+.qmake.stash
+qmake.cache
+qmake.conf
+moc_*.cpp
+moc_*.h
+ui_*.h
+qrc_*.cpp
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+compile_commands.json
+_install/
+Testing/
+
+# Ninja
+.ninja_deps
+.ninja_log
+build.ninja
+rules.ninja
+
+# Generated Qt files
+moc_predefs.h
+*.moc
+
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.obj
+*.o
+
+# Debug files
+*.pdb
+*.ilk
+*.dSYM/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*~
+*.swp
+*.swo
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# VS Code
+.vscode/
+
+# CLion / JetBrains
+.idea/
+cmake-build-*/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Runtime / generated data
+logs/
+tmp/
+temp/
+
+# Optional deployment directories
+deploy/
+dist/

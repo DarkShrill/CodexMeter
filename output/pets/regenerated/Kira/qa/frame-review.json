@@ -1,0 +1,2278 @@
+{
+  "ok": true,
+  "frames_root": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 16,
+      "actual_frames": 16,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15684,
+          "bbox": [
+            22,
+            21,
+            154,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15859,
+          "bbox": [
+            23,
+            20,
+            154,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15393,
+          "bbox": [
+            26,
+            21,
+            148,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15816,
+          "bbox": [
+            17,
+            21,
+            149,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16127,
+          "bbox": [
+            20,
+            26,
+            158,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15565,
+          "bbox": [
+            21,
+            32,
+            157,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15687,
+          "bbox": [
+            17,
+            37,
+            156,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15304,
+          "bbox": [
+            18,
+            31,
+            157,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 8,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\08.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15830,
+          "bbox": [
+            21,
+            29,
+            158,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 9,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\09.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16533,
+          "bbox": [
+            19,
+            25,
+            157,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 10,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\10.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16295,
+          "bbox": [
+            17,
+            24,
+            160,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 11,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\11.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16183,
+          "bbox": [
+            18,
+            25,
+            157,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 12,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\12.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15908,
+          "bbox": [
+            22,
+            27,
+            157,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 13,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\13.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16058,
+          "bbox": [
+            21,
+            24,
+            156,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 14,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\14.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15949,
+          "bbox": [
+            21,
+            26,
+            152,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 15,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\15.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15949,
+          "bbox": [
+            23,
+            25,
+            156,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 16,
+      "actual_frames": 16,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11976,
+          "bbox": [
+            13,
+            58,
+            179,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13491,
+          "bbox": [
+            11,
+            55,
+            181,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13543,
+          "bbox": [
+            8,
+            65,
+            184,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11364,
+          "bbox": [
+            12,
+            62,
+            179,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13354,
+          "bbox": [
+            8,
+            62,
+            183,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11502,
+          "bbox": [
+            13,
+            63,
+            179,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13217,
+          "bbox": [
+            6,
+            57,
+            186,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12238,
+          "bbox": [
+            10,
+            69,
+            182,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 8,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\08.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12666,
+          "bbox": [
+            11,
+            57,
+            181,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 9,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\09.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13487,
+          "bbox": [
+            10,
+            57,
+            182,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 10,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\10.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13520,
+          "bbox": [
+            6,
+            70,
+            186,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 11,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\11.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11133,
+          "bbox": [
+            13,
+            64,
+            178,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 12,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\12.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13306,
+          "bbox": [
+            9,
+            57,
+            183,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 13,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\13.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11881,
+          "bbox": [
+            13,
+            61,
+            179,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 14,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\14.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12848,
+          "bbox": [
+            8,
+            59,
+            184,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 15,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\15.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12297,
+          "bbox": [
+            10,
+            65,
+            182,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 16,
+      "actual_frames": 16,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13114,
+          "bbox": [
+            15,
+            62,
+            177,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12644,
+          "bbox": [
+            13,
+            58,
+            179,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13198,
+          "bbox": [
+            9,
+            64,
+            183,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13031,
+          "bbox": [
+            6,
+            72,
+            186,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13329,
+          "bbox": [
+            9,
+            66,
+            183,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12167,
+          "bbox": [
+            11,
+            67,
+            180,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12394,
+          "bbox": [
+            11,
+            71,
+            180,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13118,
+          "bbox": [
+            8,
+            70,
+            184,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 8,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\08.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13347,
+          "bbox": [
+            11,
+            62,
+            181,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 9,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\09.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12959,
+          "bbox": [
+            11,
+            61,
+            181,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 10,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\10.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12919,
+          "bbox": [
+            6,
+            66,
+            186,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 11,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\11.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13200,
+          "bbox": [
+            6,
+            69,
+            186,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 12,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\12.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13973,
+          "bbox": [
+            7,
+            61,
+            185,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 13,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\13.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12323,
+          "bbox": [
+            9,
+            62,
+            182,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 14,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\14.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13381,
+          "bbox": [
+            9,
+            66,
+            183,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 15,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\15.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14370,
+          "bbox": [
+            8,
+            62,
+            184,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 16,
+      "actual_frames": 16,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15669,
+          "bbox": [
+            18,
+            27,
+            170,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15370,
+          "bbox": [
+            21,
+            27,
+            168,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15696,
+          "bbox": [
+            27,
+            25,
+            172,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15328,
+          "bbox": [
+            11,
+            27,
+            170,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15661,
+          "bbox": [
+            9,
+            25,
+            173,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15729,
+          "bbox": [
+            6,
+            25,
+            173,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14965,
+          "bbox": [
+            27,
+            24,
+            170,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15127,
+          "bbox": [
+            26,
+            24,
+            176,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 8,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\08.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15063,
+          "bbox": [
+            25,
+            25,
+            170,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 9,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\09.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15476,
+          "bbox": [
+            11,
+            24,
+            172,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 10,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\10.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15592,
+          "bbox": [
+            9,
+            23,
+            174,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 11,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\11.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15576,
+          "bbox": [
+            13,
+            23,
+            174,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 12,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\12.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15258,
+          "bbox": [
+            19,
+            28,
+            171,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 13,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\13.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15091,
+          "bbox": [
+            23,
+            28,
+            172,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 14,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\14.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14863,
+          "bbox": [
+            25,
+            28,
+            170,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 15,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\15.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14928,
+          "bbox": [
+            24,
+            28,
+            167,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 16,
+      "actual_frames": 16,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14542,
+          "bbox": [
+            29,
+            23,
+            163,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13274,
+          "bbox": [
+            26,
+            52,
+            166,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12743,
+          "bbox": [
+            23,
+            67,
+            169,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11874,
+          "bbox": [
+            25,
+            83,
+            167,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14032,
+          "bbox": [
+            23,
+            32,
+            168,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13817,
+          "bbox": [
+            24,
+            27,
+            168,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13457,
+          "bbox": [
+            22,
+            21,
+            170,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13184,
+          "bbox": [
+            22,
+            19,
+            170,
+            181
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 8,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\08.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12883,
+          "bbox": [
+            21,
+            15,
+            170,
+            172
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 9,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\09.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13037,
+          "bbox": [
+            20,
+            24,
+            172,
+            169
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 10,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\10.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12913,
+          "bbox": [
+            24,
+            34,
+            168,
+            173
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 11,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\11.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12684,
+          "bbox": [
+            24,
+            55,
+            168,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 12,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\12.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13097,
+          "bbox": [
+            23,
+            37,
+            169,
+            174
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 13,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\13.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12836,
+          "bbox": [
+            29,
+            37,
+            163,
+            174
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 14,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\14.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13787,
+          "bbox": [
+            25,
+            20,
+            167,
+            175
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 15,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\15.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13591,
+          "bbox": [
+            29,
+            11,
+            163,
+            175
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 16,
+      "actual_frames": 16,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18302,
+          "bbox": [
+            19,
+            7,
+            168,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17581,
+          "bbox": [
+            18,
+            28,
+            184,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17448,
+          "bbox": [
+            20,
+            30,
+            182,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17275,
+          "bbox": [
+            20,
+            31,
+            180,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18568,
+          "bbox": [
+            18,
+            26,
+            186,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17554,
+          "bbox": [
+            18,
+            33,
+            180,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16610,
+          "bbox": [
+            19,
+            42,
+            181,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16243,
+          "bbox": [
+            16,
+            49,
+            182,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 8,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\08.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16695,
+          "bbox": [
+            16,
+            46,
+            182,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 9,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\09.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16859,
+          "bbox": [
+            19,
+            39,
+            181,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 10,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\10.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17259,
+          "bbox": [
+            18,
+            36,
+            184,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 11,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\11.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17317,
+          "bbox": [
+            19,
+            33,
+            183,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 12,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\12.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17908,
+          "bbox": [
+            19,
+            23,
+            179,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 13,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\13.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18348,
+          "bbox": [
+            17,
+            22,
+            178,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 14,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\14.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17949,
+          "bbox": [
+            21,
+            17,
+            173,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 15,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\15.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18090,
+          "bbox": [
+            17,
+            16,
+            162,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 16,
+      "actual_frames": 16,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12878,
+          "bbox": [
+            28,
+            44,
+            157,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12963,
+          "bbox": [
+            29,
+            42,
+            172,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12997,
+          "bbox": [
+            27,
+            42,
+            180,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12954,
+          "bbox": [
+            27,
+            44,
+            184,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12662,
+          "bbox": [
+            28,
+            49,
+            183,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12656,
+          "bbox": [
+            30,
+            49,
+            187,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12605,
+          "bbox": [
+            31,
+            48,
+            186,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12517,
+          "bbox": [
+            29,
+            48,
+            182,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 8,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\08.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12678,
+          "bbox": [
+            27,
+            45,
+            172,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 9,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\09.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12582,
+          "bbox": [
+            27,
+            49,
+            166,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 10,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\10.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12589,
+          "bbox": [
+            27,
+            48,
+            162,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 11,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\11.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12575,
+          "bbox": [
+            26,
+            49,
+            155,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 12,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\12.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12632,
+          "bbox": [
+            28,
+            46,
+            164,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 13,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\13.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12671,
+          "bbox": [
+            27,
+            45,
+            160,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 14,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\14.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12632,
+          "bbox": [
+            27,
+            48,
+            153,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 15,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\15.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12302,
+          "bbox": [
+            29,
+            48,
+            150,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 16,
+      "actual_frames": 16,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15723,
+          "bbox": [
+            27,
+            21,
+            168,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16163,
+          "bbox": [
+            20,
+            23,
+            164,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16214,
+          "bbox": [
+            23,
+            24,
+            170,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16100,
+          "bbox": [
+            22,
+            26,
+            171,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16242,
+          "bbox": [
+            20,
+            29,
+            171,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15587,
+          "bbox": [
+            21,
+            31,
+            166,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14994,
+          "bbox": [
+            19,
+            29,
+            178,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14897,
+          "bbox": [
+            20,
+            45,
+            182,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 8,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\08.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15639,
+          "bbox": [
+            18,
+            38,
+            187,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 9,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\09.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15742,
+          "bbox": [
+            19,
+            35,
+            173,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 10,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\10.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17179,
+          "bbox": [
+            12,
+            31,
+            165,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 11,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\11.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15954,
+          "bbox": [
+            21,
+            32,
+            171,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 12,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\12.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16531,
+          "bbox": [
+            20,
+            36,
+            176,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 13,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\13.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17138,
+          "bbox": [
+            22,
+            24,
+            175,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 14,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\14.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16766,
+          "bbox": [
+            21,
+            22,
+            170,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 15,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\15.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16511,
+          "bbox": [
+            21,
+            23,
+            170,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 16,
+      "actual_frames": 16,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20139,
+          "bbox": [
+            8,
+            24,
+            175,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19829,
+          "bbox": [
+            8,
+            29,
+            175,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19191,
+          "bbox": [
+            9,
+            38,
+            175,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18831,
+          "bbox": [
+            9,
+            41,
+            175,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19137,
+          "bbox": [
+            8,
+            38,
+            175,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19200,
+          "bbox": [
+            8,
+            38,
+            176,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19167,
+          "bbox": [
+            9,
+            38,
+            175,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19188,
+          "bbox": [
+            9,
+            35,
+            173,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 8,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\08.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19671,
+          "bbox": [
+            8,
+            27,
+            172,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 9,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\09.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19685,
+          "bbox": [
+            8,
+            25,
+            171,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 10,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\10.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19421,
+          "bbox": [
+            9,
+            24,
+            168,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 11,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\11.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19311,
+          "bbox": [
+            9,
+            22,
+            167,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 12,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\12.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19538,
+          "bbox": [
+            9,
+            21,
+            168,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 13,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\13.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19625,
+          "bbox": [
+            10,
+            21,
+            168,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 14,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\14.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19640,
+          "bbox": [
+            10,
+            20,
+            168,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 15,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\15.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19619,
+          "bbox": [
+            11,
+            20,
+            169,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+********* Start testing of qmltestrunner *********
+Config: Using QtTest library 6.9.0, Qt 6.9.0 (x86_64-little_endian-llp64 shared (dynamic) release build; by GCC 13.1.0), windows 11
+PASS   : qmltestrunner::KiraContinuousPlayback::initTestCase()
+PASS   : qmltestrunner::KiraContinuousPlayback::test_loopSaluteAndPause()
+PASS   : qmltestrunner::KiraContinuousPlayback::cleanupTestCase()
+Totals: 3 passed, 0 failed, 0 skipped, 0 blacklisted, 8016ms
+********* Finished testing of qmltestrunner *********

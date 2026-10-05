@@ -1,0 +1,212 @@
+{
+  "schema": "codexmeter-16-pose-extension",
+  "rows": [
+    {
+      "state": "idle",
+      "frames": [
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\00.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\01.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\02.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\03.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\04.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\05.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\06.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\07.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\08.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\09.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\10.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\11.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\12.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\13.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\14.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\15.png"
+      ],
+      "method": "components",
+      "schema": "codexmeter-16-pose-extension"
+    },
+    {
+      "state": "running-right",
+      "frames": [
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\00.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\01.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\02.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\03.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\04.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\05.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\06.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\07.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\08.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\09.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\10.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\11.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\12.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\13.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\14.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\15.png"
+      ],
+      "method": "components",
+      "schema": "codexmeter-16-pose-extension"
+    },
+    {
+      "state": "running-left",
+      "frames": [
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\00.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\01.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\02.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\03.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\04.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\05.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\06.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\07.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\08.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\09.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\10.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\11.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\12.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\13.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\14.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\15.png"
+      ],
+      "method": "components",
+      "schema": "codexmeter-16-pose-extension"
+    },
+    {
+      "state": "waving",
+      "frames": [
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\00.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\01.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\02.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\03.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\04.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\05.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\06.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\07.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\08.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\09.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\10.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\11.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\12.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\13.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\14.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\15.png"
+      ],
+      "method": "components",
+      "schema": "codexmeter-16-pose-extension"
+    },
+    {
+      "state": "jumping",
+      "frames": [
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\00.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\01.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\02.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\03.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\04.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\05.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\06.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\07.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\08.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\09.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\10.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\11.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\12.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\13.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\14.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\15.png"
+      ],
+      "method": "components",
+      "schema": "codexmeter-16-pose-extension"
+    },
+    {
+      "state": "failed",
+      "frames": [
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\00.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\01.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\02.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\03.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\04.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\05.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\06.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\07.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\08.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\09.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\10.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\11.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\12.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\13.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\14.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\15.png"
+      ],
+      "method": "components",
+      "schema": "codexmeter-16-pose-extension"
+    },
+    {
+      "state": "waiting",
+      "frames": [
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\00.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\01.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\02.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\03.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\04.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\05.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\06.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\07.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\08.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\09.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\10.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\11.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\12.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\13.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\14.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\15.png"
+      ],
+      "method": "components",
+      "schema": "codexmeter-16-pose-extension"
+    },
+    {
+      "state": "running",
+      "frames": [
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\00.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\01.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\02.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\03.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\04.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\05.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\06.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\07.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\08.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\09.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\10.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\11.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\12.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\13.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\14.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\15.png"
+      ],
+      "method": "components",
+      "schema": "codexmeter-16-pose-extension"
+    },
+    {
+      "state": "review",
+      "frames": [
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\00.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\01.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\02.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\03.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\04.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\05.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\06.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\07.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\08.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\09.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\10.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\11.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\12.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\13.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\14.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\15.png"
+      ],
+      "method": "components",
+      "schema": "codexmeter-16-pose-extension"
+    }
+  ]
+}

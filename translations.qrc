@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/translations">
+        <file alias="en.json">translations/en.json</file>
+        <file alias="it.json">translations/it.json</file>
+        <file alias="fr.json">translations/fr.json</file>
+        <file alias="de.json">translations/de.json</file>
+        <file alias="es.json">translations/es.json</file>
+        <file alias="pt.json">translations/pt.json</file>
+        <file alias="nl.json">translations/nl.json</file>
+        <file alias="pl.json">translations/pl.json</file>
+        <file alias="zh_CN.json">translations/zh_CN.json</file>
+        <file alias="ru.json">translations/ru.json</file>
+        <file alias="tr.json">translations/tr.json</file>
+    </qresource>
+</RCC>

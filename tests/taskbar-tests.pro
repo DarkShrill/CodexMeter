@@ -1,0 +1,10 @@
+QT += core gui widgets testlib
+CONFIG += console testcase c++17
+TEMPLATE = app
+TARGET = TaskbarTests
+SOURCES += tst_taskbar.cpp ../TaskbarMonitor.cpp ../AppSettings.cpp ../CodexRateLimitModel.cpp
+HEADERS += ../TaskbarMonitor.h ../AppSettings.h ../CodexRateLimitModel.h
+INCLUDEPATH += ..
+win32: LIBS += -lcomctl32 -luser32 -lgdi32 -lole32 -luuid
+win32 { RC_FILE = ../windows.rc
+RC_INCLUDEPATH += $$PWD/.. }

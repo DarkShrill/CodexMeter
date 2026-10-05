@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/previews/CompactPreview.qml</file>
+        <file>qml/previews/DetailsPreview.qml</file>
+        <file>qml/previews/GlassCardPreview.qml</file>
+        <file>qml/previews/IndicatorSliderPreview.qml</file>
+        <file>qml/previews/LimitRowPreview.qml</file>
+        <file>qml/previews/MiniRingPreview.qml</file>
+        <file>qml/previews/PetPreview.qml</file>
+        <file>qml/previews/PillPreview.qml</file>
+        <file>qml/previews/RingPreview.qml</file>
+        <file>qml/previews/SectionCardPreview.qml</file>
+        <file>qml/previews/SettingsPreview.qml</file>
+        <file>qml/previews/SidebarButtonPreview.qml</file>
+        <file>qml/previews/TaskStatusBadgePreview.qml</file>
+        <file>qml/previews/TogglePreview.qml</file>
+        <file>qml/previews/PreviewData.qml</file>
+        <file>qml/previews/PreviewFrame.qml</file>
+        <file>qml/previews/PreviewGallery.qml</file>
+        <file>qml/previews/PreviewWindow.qml</file>
+    </qresource>
+</RCC>

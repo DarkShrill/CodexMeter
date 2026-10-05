@@ -1,0 +1,212 @@
+{
+  "schema": "codexmeter-16-pose-extension",
+  "rows": [
+    {
+      "state": "idle",
+      "frames": [
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\00.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\01.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\02.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\03.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\04.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\05.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\06.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\07.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\08.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\09.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\10.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\11.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\12.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\13.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\14.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\idle\\15.png"
+      ],
+      "method": "components",
+      "schema": "codexmeter-16-pose-extension"
+    },
+    {
+      "state": "running-right",
+      "frames": [
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\00.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\01.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\02.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\03.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\04.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\05.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\06.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\07.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\08.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\09.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\10.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\11.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\12.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\13.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\14.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-right\\15.png"
+      ],
+      "method": "components",
+      "schema": "codexmeter-16-pose-extension"
+    },
+    {
+      "state": "running-left",
+      "frames": [
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\00.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\01.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\02.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\03.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\04.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\05.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\06.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\07.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\08.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\09.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\10.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\11.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\12.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\13.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\14.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running-left\\15.png"
+      ],
+      "method": "components",
+      "schema": "codexmeter-16-pose-extension"
+    },
+    {
+      "state": "waving",
+      "frames": [
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\00.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\01.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\02.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\03.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\04.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\05.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\06.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\07.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\08.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\09.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\10.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\11.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\12.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\13.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\14.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waving\\15.png"
+      ],
+      "method": "components",
+      "schema": "codexmeter-16-pose-extension"
+    },
+    {
+      "state": "jumping",
+      "frames": [
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\00.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\01.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\02.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\03.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\04.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\05.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\06.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\07.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\08.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\09.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\10.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\11.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\12.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\13.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\14.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\jumping\\15.png"
+      ],
+      "method": "components",
+      "schema": "codexmeter-16-pose-extension"
+    },
+    {
+      "state": "failed",
+      "frames": [
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\00.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\01.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\02.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\03.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\04.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\05.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\06.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\07.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\08.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\09.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\10.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\11.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\12.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\13.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\14.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\failed\\15.png"
+      ],
+      "method": "components",
+      "schema": "codexmeter-16-pose-extension"
+    },
+    {
+      "state": "waiting",
+      "frames": [
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\00.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\01.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\02.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\03.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\04.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\05.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\06.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\07.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\08.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\09.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\10.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\11.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\12.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\13.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\14.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\waiting\\15.png"
+      ],
+      "method": "components",
+      "schema": "codexmeter-16-pose-extension"
+    },
+    {
+      "state": "running",
+      "frames": [
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\00.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\01.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\02.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\03.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\04.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\05.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\06.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\07.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\08.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\09.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\10.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\11.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\12.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\13.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\14.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\running\\15.png"
+      ],
+      "method": "components",
+      "schema": "codexmeter-16-pose-extension"
+    },
+    {
+      "state": "review",
+      "frames": [
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\00.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\01.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\02.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\03.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\04.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\05.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\06.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\07.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\08.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\09.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\10.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\11.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\12.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\13.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\14.png",
+        "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\Kira\\frames\\review\\15.png"
+      ],
+      "method": "components",
+      "schema": "codexmeter-16-pose-extension"
+    }
+  ]
+}

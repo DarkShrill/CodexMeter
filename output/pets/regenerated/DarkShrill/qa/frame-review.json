@@ -1,0 +1,2278 @@
+{
+  "ok": true,
+  "frames_root": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 16,
+      "actual_frames": 16,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11504,
+          "bbox": [
+            52,
+            25,
+            147,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11495,
+          "bbox": [
+            43,
+            25,
+            137,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11472,
+          "bbox": [
+            41,
+            25,
+            137,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11750,
+          "bbox": [
+            40,
+            22,
+            136,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11678,
+          "bbox": [
+            52,
+            28,
+            149,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11734,
+          "bbox": [
+            45,
+            27,
+            141,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11696,
+          "bbox": [
+            46,
+            29,
+            142,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11684,
+          "bbox": [
+            47,
+            29,
+            143,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 8,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\08.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12134,
+          "bbox": [
+            45,
+            26,
+            144,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 9,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\09.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12086,
+          "bbox": [
+            43,
+            24,
+            139,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 10,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\10.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12190,
+          "bbox": [
+            44,
+            24,
+            140,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 11,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\11.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11679,
+          "bbox": [
+            40,
+            25,
+            137,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 12,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\12.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11880,
+          "bbox": [
+            42,
+            23,
+            138,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 13,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\13.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12035,
+          "bbox": [
+            37,
+            25,
+            139,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 14,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\14.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11561,
+          "bbox": [
+            49,
+            26,
+            145,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 15,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\idle\\15.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11418,
+          "bbox": [
+            49,
+            26,
+            143,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 16,
+      "actual_frames": 16,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12184,
+          "bbox": [
+            28,
+            26,
+            163,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12029,
+          "bbox": [
+            33,
+            21,
+            158,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10982,
+          "bbox": [
+            42,
+            21,
+            148,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11856,
+          "bbox": [
+            30,
+            26,
+            161,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12040,
+          "bbox": [
+            29,
+            28,
+            163,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11386,
+          "bbox": [
+            32,
+            28,
+            159,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11441,
+          "bbox": [
+            36,
+            24,
+            154,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11599,
+          "bbox": [
+            30,
+            27,
+            161,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 8,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\08.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11976,
+          "bbox": [
+            28,
+            29,
+            163,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 9,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\09.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11834,
+          "bbox": [
+            34,
+            31,
+            157,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 10,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\10.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11002,
+          "bbox": [
+            39,
+            25,
+            152,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 11,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\11.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11755,
+          "bbox": [
+            29,
+            29,
+            161,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 12,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\12.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12248,
+          "bbox": [
+            29,
+            21,
+            162,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 13,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\13.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11662,
+          "bbox": [
+            30,
+            24,
+            160,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 14,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\14.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11678,
+          "bbox": [
+            35,
+            19,
+            155,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 15,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-right\\15.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11865,
+          "bbox": [
+            31,
+            25,
+            160,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 16,
+      "actual_frames": 16,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12208,
+          "bbox": [
+            31,
+            26,
+            160,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11401,
+          "bbox": [
+            34,
+            25,
+            157,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10622,
+          "bbox": [
+            44,
+            25,
+            147,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12129,
+          "bbox": [
+            31,
+            24,
+            160,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12285,
+          "bbox": [
+            30,
+            27,
+            161,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11238,
+          "bbox": [
+            36,
+            25,
+            154,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12016,
+          "bbox": [
+            33,
+            24,
+            158,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11151,
+          "bbox": [
+            27,
+            25,
+            164,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 8,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\08.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11497,
+          "bbox": [
+            33,
+            26,
+            158,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 9,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\09.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12095,
+          "bbox": [
+            31,
+            28,
+            160,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 10,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\10.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10379,
+          "bbox": [
+            46,
+            27,
+            145,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 11,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\11.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11889,
+          "bbox": [
+            32,
+            29,
+            158,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 12,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\12.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11760,
+          "bbox": [
+            33,
+            26,
+            158,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 13,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\13.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11879,
+          "bbox": [
+            33,
+            27,
+            158,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 14,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\14.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10748,
+          "bbox": [
+            40,
+            22,
+            151,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 15,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running-left\\15.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12092,
+          "bbox": [
+            33,
+            24,
+            158,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 16,
+      "actual_frames": 16,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10471,
+          "bbox": [
+            53,
+            28,
+            135,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10478,
+          "bbox": [
+            53,
+            28,
+            135,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10961,
+          "bbox": [
+            54,
+            28,
+            160,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11125,
+          "bbox": [
+            50,
+            28,
+            157,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11928,
+          "bbox": [
+            47,
+            26,
+            157,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12164,
+          "bbox": [
+            49,
+            24,
+            162,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11899,
+          "bbox": [
+            48,
+            25,
+            166,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11609,
+          "bbox": [
+            53,
+            24,
+            169,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 8,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\08.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12075,
+          "bbox": [
+            47,
+            24,
+            167,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 9,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\09.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11932,
+          "bbox": [
+            53,
+            25,
+            168,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 10,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\10.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11781,
+          "bbox": [
+            53,
+            25,
+            170,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 11,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\11.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11889,
+          "bbox": [
+            49,
+            25,
+            168,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 12,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\12.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11948,
+          "bbox": [
+            50,
+            24,
+            169,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 13,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\13.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11740,
+          "bbox": [
+            51,
+            22,
+            165,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 14,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\14.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11583,
+          "bbox": [
+            50,
+            23,
+            146,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 15,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waving\\15.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11130,
+          "bbox": [
+            51,
+            23,
+            136,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 16,
+      "actual_frames": 16,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11026,
+          "bbox": [
+            51,
+            26,
+            140,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12388,
+          "bbox": [
+            38,
+            32,
+            153,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11411,
+          "bbox": [
+            23,
+            52,
+            167,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12572,
+          "bbox": [
+            28,
+            17,
+            163,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11382,
+          "bbox": [
+            27,
+            26,
+            163,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11330,
+          "bbox": [
+            34,
+            23,
+            157,
+            182
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10617,
+          "bbox": [
+            34,
+            25,
+            157,
+            171
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10710,
+          "bbox": [
+            34,
+            12,
+            157,
+            164
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 8,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\08.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11465,
+          "bbox": [
+            8,
+            29,
+            183,
+            177
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 9,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\09.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11449,
+          "bbox": [
+            9,
+            29,
+            182,
+            185
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 10,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\10.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11437,
+          "bbox": [
+            18,
+            28,
+            173,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 11,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\11.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11241,
+          "bbox": [
+            23,
+            37,
+            168,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 12,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\12.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11094,
+          "bbox": [
+            35,
+            54,
+            155,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 13,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\13.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11532,
+          "bbox": [
+            44,
+            31,
+            147,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 14,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\14.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11263,
+          "bbox": [
+            53,
+            24,
+            138,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 15,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\jumping\\15.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10776,
+          "bbox": [
+            53,
+            26,
+            138,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 16,
+      "actual_frames": 16,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10541,
+          "bbox": [
+            53,
+            25,
+            139,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10597,
+          "bbox": [
+            50,
+            26,
+            136,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10757,
+          "bbox": [
+            55,
+            27,
+            141,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11036,
+          "bbox": [
+            54,
+            27,
+            144,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11795,
+          "bbox": [
+            53,
+            26,
+            156,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11813,
+          "bbox": [
+            52,
+            27,
+            154,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11791,
+          "bbox": [
+            52,
+            28,
+            155,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11626,
+          "bbox": [
+            52,
+            28,
+            154,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 8,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\08.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11929,
+          "bbox": [
+            50,
+            26,
+            154,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 9,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\09.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12525,
+          "bbox": [
+            51,
+            25,
+            161,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 10,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\10.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11994,
+          "bbox": [
+            52,
+            24,
+            150,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 11,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\11.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11424,
+          "bbox": [
+            52,
+            23,
+            142,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 12,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\12.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11579,
+          "bbox": [
+            44,
+            19,
+            136,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 13,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\13.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11569,
+          "bbox": [
+            46,
+            20,
+            136,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 14,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\14.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11474,
+          "bbox": [
+            47,
+            20,
+            137,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 15,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\failed\\15.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11590,
+          "bbox": [
+            48,
+            17,
+            138,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 16,
+      "actual_frames": 16,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10956,
+          "bbox": [
+            55,
+            27,
+            141,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11202,
+          "bbox": [
+            52,
+            26,
+            138,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11927,
+          "bbox": [
+            31,
+            27,
+            159,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11831,
+          "bbox": [
+            37,
+            26,
+            155,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12653,
+          "bbox": [
+            21,
+            26,
+            175,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12669,
+          "bbox": [
+            19,
+            24,
+            175,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12548,
+          "bbox": [
+            25,
+            26,
+            167,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12531,
+          "bbox": [
+            26,
+            26,
+            168,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 8,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\08.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12554,
+          "bbox": [
+            19,
+            26,
+            170,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 9,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\09.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12578,
+          "bbox": [
+            19,
+            27,
+            171,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 10,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\10.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12363,
+          "bbox": [
+            25,
+            28,
+            171,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 11,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\11.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12496,
+          "bbox": [
+            21,
+            29,
+            171,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 12,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\12.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11694,
+          "bbox": [
+            45,
+            25,
+            143,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 13,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\13.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11534,
+          "bbox": [
+            55,
+            25,
+            143,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 14,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\14.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11329,
+          "bbox": [
+            50,
+            24,
+            136,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 15,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\waiting\\15.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11257,
+          "bbox": [
+            53,
+            24,
+            139,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 16,
+      "actual_frames": 16,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11203,
+          "bbox": [
+            52,
+            26,
+            143,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11555,
+          "bbox": [
+            50,
+            25,
+            143,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11546,
+          "bbox": [
+            51,
+            26,
+            145,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11537,
+          "bbox": [
+            51,
+            26,
+            142,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11449,
+          "bbox": [
+            52,
+            26,
+            142,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11560,
+          "bbox": [
+            50,
+            26,
+            141,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11647,
+          "bbox": [
+            49,
+            24,
+            138,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11642,
+          "bbox": [
+            49,
+            26,
+            141,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 8,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\08.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11660,
+          "bbox": [
+            49,
+            26,
+            141,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 9,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\09.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11685,
+          "bbox": [
+            48,
+            25,
+            140,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 10,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\10.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11821,
+          "bbox": [
+            47,
+            26,
+            141,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 11,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\11.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11618,
+          "bbox": [
+            49,
+            26,
+            141,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 12,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\12.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11721,
+          "bbox": [
+            49,
+            25,
+            141,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 13,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\13.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11959,
+          "bbox": [
+            49,
+            24,
+            144,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 14,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\14.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11762,
+          "bbox": [
+            49,
+            26,
+            141,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 15,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\running\\15.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11698,
+          "bbox": [
+            51,
+            25,
+            147,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 16,
+      "actual_frames": 16,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11216,
+          "bbox": [
+            52,
+            26,
+            143,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11287,
+          "bbox": [
+            51,
+            26,
+            148,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11349,
+          "bbox": [
+            51,
+            27,
+            148,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11421,
+          "bbox": [
+            52,
+            27,
+            149,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11473,
+          "bbox": [
+            50,
+            26,
+            147,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11541,
+          "bbox": [
+            51,
+            26,
+            145,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11442,
+          "bbox": [
+            50,
+            26,
+            141,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11462,
+          "bbox": [
+            51,
+            26,
+            146,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 8,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\08.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11577,
+          "bbox": [
+            51,
+            26,
+            142,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 9,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\09.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11518,
+          "bbox": [
+            51,
+            26,
+            146,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 10,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\10.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11727,
+          "bbox": [
+            49,
+            27,
+            152,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 11,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\11.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11387,
+          "bbox": [
+            51,
+            26,
+            150,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 12,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\12.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11331,
+          "bbox": [
+            50,
+            28,
+            147,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 13,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\13.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11399,
+          "bbox": [
+            50,
+            24,
+            137,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 14,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\14.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11321,
+          "bbox": [
+            51,
+            25,
+            142,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 15,
+          "file": "C:\\QT_WORKSPACE\\CodexMeter\\output\\pets\\regenerated\\DarkShrill\\frames\\review\\15.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11253,
+          "bbox": [
+            51,
+            25,
+            142,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    }
+  ]
+}

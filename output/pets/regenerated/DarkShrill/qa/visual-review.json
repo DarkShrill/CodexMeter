@@ -1,0 +1,16 @@
+{
+  "scope": "CodexMeter sixteen-pose extension; no Pets upload",
+  "reviewed_by": "generation worker visual inspection",
+  "states": {
+    "idle": "pass: eyelids close and reopen, head and shoulders gently articulate, feet remain planted",
+    "running-right": "pass: right-facing nose and body, changing elbow/knee/ankle running cadence",
+    "running-left": "pass: independently generated left-facing nose and body with changing running limb poses",
+    "waving": "pass: same attached bare hand rises, opens, wrist waves and arm lowers; opposite wristband arm remains at hip",
+    "jumping": "pass: bent-knee anticipation, extension, airborne tuck, descent and crouched landing; extracted feet rise from y199 to y164 then return y199",
+    "failed": "pass: surprise, slumping brows/head, attached same-hand facepalm and recovery; no detached effects",
+    "waiting": "pass: attached forearms open into palm-up questioning shrug, head looks expectantly then hands lower",
+    "running": "pass after repair: same left bare hand touches chin throughout, wristband right arm stays in pocket; thoughtful eyebrows, gaze, blink and recovery; no foot-running",
+    "review": "pass: parent source independently generated, head bows, eyes scan down, blink and nod; both hands stay in pockets"
+  },
+  "deterministic_checks": "Final all-nine state official inspect_frames returned ok:true, zero errors and zero warnings. Atlas assembled 3072x1872. Parent handles despill and previews."
+}

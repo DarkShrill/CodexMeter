@@ -1,0 +1,48 @@
+{
+  "generator": "built-in image_gen.imagegen",
+  "schema": "codexmeter-16-pose-extension",
+  "references": [
+    "assets/darkshrill/frames/idle/00.png",
+    "output/pets/references/darkshrill-avatar.png"
+  ],
+  "method": "Every state independently generated as sixteen chronological articulated poses on a 4x4 source grid. Official connected-component extraction, shared per-state scale and registration; no generated interpolated or duplicated frames. Only magenta chroma removed. No Pets upload.",
+  "jobs": [
+    {
+      "state": "idle",
+      "output_hint": "Generated images are saved to C:\\Users\\e.papa\\.codex\\generated_images\\01a0f799-5314-7d62-bda6-f3b15d57c7e0 as C:\\Users\\e.papa\\.codex\\generated_images\\01a0f799-5314-7d62-bda6-f3b15d57c7e0\\exec-eeb7a69a-f0af-43c0-bd4e-43962474869c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    },
+    {
+      "state": "running-right",
+      "output_hint": "Generated images are saved to C:\\Users\\e.papa\\.codex\\generated_images\\01a0f799-5314-7d62-bda6-f3b15d57c7e0 as C:\\Users\\e.papa\\.codex\\generated_images\\01a0f799-5314-7d62-bda6-f3b15d57c7e0\\exec-741a76bd-9c22-4329-9d9a-b18207b0dbda.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    },
+    {
+      "state": "running-left",
+      "output_hint": "Generated images are saved to C:\\Users\\e.papa\\.codex\\generated_images\\01a0f799-5314-7d62-bda6-f3b15d57c7e0 as C:\\Users\\e.papa\\.codex\\generated_images\\01a0f799-5314-7d62-bda6-f3b15d57c7e0\\exec-f4bfc138-e4a9-4e9d-9296-8a0ed2598090.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    },
+    {
+      "state": "waving",
+      "output_hint": "Generated images are saved to C:\\Users\\e.papa\\.codex\\generated_images\\01a0f799-5314-7d62-bda6-f3b15d57c7e0 as C:\\Users\\e.papa\\.codex\\generated_images\\01a0f799-5314-7d62-bda6-f3b15d57c7e0\\exec-cbc2a65d-cd42-4054-9959-6145c445c312.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    },
+    {
+      "state": "jumping",
+      "output_hint": "Generated images are saved to C:\\Users\\e.papa\\.codex\\generated_images\\01a0f799-5314-7d62-bda6-f3b15d57c7e0 as C:\\Users\\e.papa\\.codex\\generated_images\\01a0f799-5314-7d62-bda6-f3b15d57c7e0\\exec-86bb17ef-60ae-4211-a370-2a66ae16403d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    },
+    {
+      "state": "failed",
+      "output_hint": "Generated images are saved to C:\\Users\\e.papa\\.codex\\generated_images\\01a0f799-5314-7d62-bda6-f3b15d57c7e0 as C:\\Users\\e.papa\\.codex\\generated_images\\01a0f799-5314-7d62-bda6-f3b15d57c7e0\\exec-e43780ec-3f0c-49d5-ae54-0822eec368b7.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    },
+    {
+      "state": "waiting",
+      "output_hint": "Generated images are saved to C:\\Users\\e.papa\\.codex\\generated_images\\01a0f799-5314-7d62-bda6-f3b15d57c7e0 as C:\\Users\\e.papa\\.codex\\generated_images\\01a0f799-5314-7d62-bda6-f3b15d57c7e0\\exec-ee3087ac-f9ac-44fb-8b5f-d5aa90744c42.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    },
+    {
+      "state": "running",
+      "output_hint": "C:/Users/e.papa/.codex/generated_images/01a0f799-5314-7d62-bda6-f3b15d57c7e0/exec-0a0ca3a4-b00e-4ae0-8b81-455cfcaa2f0d.png"
+    },
+    {
+      "state": "review",
+      "generator": "parent built-in imagegen",
+      "source": "sources/review.png"
+    }
+  ]
+}

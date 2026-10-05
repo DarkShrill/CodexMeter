@@ -1,0 +1,25 @@
+{
+  "ok": true,
+  "states": 9,
+  "frames": 144,
+  "regenerated": true,
+  "unique_frames_by_state": {
+    "idle": 16,
+    "running-right": 16,
+    "running-left": 16,
+    "waving": 16,
+    "jumping": 16,
+    "failed": 16,
+    "waiting": 16,
+    "running": 16,
+    "review": 16
+  },
+  "checks": [
+    "exact frame names",
+    "192x208",
+    "nonempty",
+    "transparent background",
+    "at least 15 distinct images per state"
+  ],
+  "motion_semantics": "Requires separate visual review; pixel uniqueness alone does not prove articulated motion."
+}
