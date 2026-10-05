@@ -82,6 +82,18 @@ Enable the quota monitor on the main taskbar to see percentages and time until r
 
 <a id="installation"></a>
 
+## 🧪 What's next?
+
+### Claude Code support?
+
+Using Claude Code too?
+
+I'm considering adding **Claude Code support to Codex Meter**.
+
+**[👍 Vote for Claude Code support →](https://github.com/DarkShrill/CodexMeter/issues/1)**
+
+React to the issue with 👍 or leave a comment telling me what you'd like to see supported.
+
 ## 🚀 Installation
 
 **You need Windows 10/11 and Codex CLI already installed and authenticated.** Codex Meter uses the sign-in configured in Codex; you do not need to enter credentials in the app.
@@ -185,4 +197,11 @@ This copy does not include a general project license; the font license applies t
 
 ## ❤️ Support the project
 
-If Codex Meter helps you, leave a ⭐ on GitHub to help others discover it.
+If Codex Meter helps you:
+
+⭐ **Star the repository** to help other developers discover it.
+
+🟠 **Using Claude Code too?**  
+[Vote for Claude Code support →](https://github.com/DarkShrill/CodexMeter/issues/1)
+
+Found a bug or have an idea? Open an issue — feedback is welcome.
