@@ -95,6 +95,15 @@ If you only have the source code, see [Development](#development) for build inst
 <details>
 <summary>Codex not found?</summary>
 
+### 1. Install Codex CLI
+
+Codex Meter requires **Codex CLI** to be installed and authenticated.
+
+On Windows, you can install the latest Codex CLI directly from PowerShell:
+
+```powershell
+powershell -ExecutionPolicy ByPass -c "irm https://chatgpt.com/codex/install.ps1 | iex"
+
 Check from PowerShell:
 
 ```powershell
