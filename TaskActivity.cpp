@@ -50,6 +50,7 @@ void TaskActivity::consume(Session &s, const QJsonObject &record, bool notify) {
     if (s.ignored) return;
     QDateTime timestamp = QDateTime::fromString(record.value("timestamp").toString(), Qt::ISODateWithMs);
     if (!timestamp.isValid()) timestamp = QDateTime::currentDateTimeUtc();
+    if (!s.lastEventAt.isValid() || timestamp > s.lastEventAt) s.lastEventAt = timestamp;
     auto update = [&](const QString &state) { s.state = state; s.changed = timestamp; };
     // A long running turn can start before the recent tail read at startup.
     // Fresh reasoning/tool events still identify it until a lifecycle marker is seen.
@@ -126,8 +127,6 @@ void TaskActivity::poll() {
     QDirIterator files(m_sessionRoot, {"*.jsonl"}, QDir::Files, QDirIterator::Subdirectories);
     while (files.hasNext()) {
         const QString path = files.next();
-        const auto info = files.fileInfo();
-        if (info.lastModified().secsTo(now) > 86400 && !m_sessions.contains(path)) continue;
         QFile file(path);
         if (!file.open(QIODevice::ReadOnly)) continue;
         const bool known = m_sessions.contains(path);
@@ -150,7 +149,12 @@ void TaskActivity::poll() {
             consume(s, QJsonDocument::fromJson(line).object(), !m_initial);
         }
         s.offset = file.pos();
-        if (info.lastModified().secsTo(now) > 3600) { s.active = false; s.inputCalls.clear(); }
+        // Windows can retain an old last-write time while Codex holds the log open.
+        // The timestamps inside the log reflect ongoing and resumed turns.
+        if (s.lastEventAt.isValid() && s.lastEventAt.secsTo(now) > 3600) {
+            s.active = false;
+            s.inputCalls.clear();
+        }
     }
     m_initial = false;
     for (auto it = m_sessions.begin(); it != m_sessions.end();) {

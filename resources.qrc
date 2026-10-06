@@ -21,8 +21,6 @@
         <file>qml/components/ToggleSwitch.qml</file>
         <file>qml/components/IndicatorSlider.qml</file>
         <file>assets/darkshrill-icon.png</file>
-        <file>assets/pet-small.png</file>
-        <file>assets/pet-surprised.png</file>
         <file>assets/fonts/Poppins-Regular.ttf</file>
         <file>assets/fonts/Poppins-Medium.ttf</file>
         <file>assets/fonts/Poppins-SemiBold.ttf</file>

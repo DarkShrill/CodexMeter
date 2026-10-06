@@ -37,6 +37,7 @@ private:
         QString title;
         QString workspace;
         QDateTime changed;
+        QDateTime lastEventAt;
         QHash<QString, bool> inputCalls; // value: asynchronous request
     };
     void consume(Session &session, const QJsonObject &record, bool notify);
